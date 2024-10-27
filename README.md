@@ -49,8 +49,8 @@ This repository is a blend of my technical journey and creative explorations. Ex
 
 I'm always excited to meet fellow tech enthusiasts, or anyone with a spark of curiosity. Let's make something amazing together!
 
-  <a href="https://www.linkedin.com/in/mozinhom/" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mozinhom@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohy-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mozinhom/" target="_blank"></a>
+  <a href="mozinhom@gmail.com" target="_blank"></a>
 
 Thanks for stopping by! Dive in, explore, and Looking forward to connecting and creating! 🚀
 
