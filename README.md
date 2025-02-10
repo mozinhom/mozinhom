@@ -10,15 +10,20 @@ Hey there! 👋 I'm **Mohamed zinhom Ali Kassem **, and you've just stumbled upo
 
 ## 🛠 Technical Skills
 
+## 🛠 Technical Skills
+
 - **Programming Languages:**
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-    ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-  
-- **Microcontroller Interfacing:**
-  - ![AVR MC](https://img.shields.io/badge/-AVR_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
-    ![ARM MC](https://img.shields.io/badge/-ARM_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
-    ![ESP](https://img.shields.io/badge/-ESP-003B57?style=flat-square&logo=espressif&logoColor=white)
+  - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- **Frameworks and Libraries:**
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+    ![WordPress (PHP)](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
 
 - **Software Tools:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -26,15 +31,26 @@ Hey there! 👋 I'm **Mohamed zinhom Ali Kassem **, and you've just stumbled upo
  
 
 - **Development Tools:**
-  - ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-    ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+  - ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+    ![PHPStorm](https://img.shields.io/badge/-PHPStorm-000000?style=flat-square&logo=phpstorm&logoColor=white)
+    ![Windsurf](https://img.shields.io/badge/-Windsurf-8A2BE2?style=flat-square&logo=codeium&logoColor=white)
+
+
+- **Localhost Software:**
+  - ![Wamp](https://img.shields.io/badge/-WampServer-FF2D20?style=flat-square&logo=windows&logoColor=white)
+    ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+    ![MAMP](https://img.shields.io/badge/-MAMP-007DC5?style=flat-square&logo=apple&logoColor=white)
+    ![Local](https://img.shields.io/badge/-Local_by_Flywheel-2C3E50?style=flat-square&logo=flyway&logoColor=white)
+
+
 
 - **Design Tools:**
- 
-  - ![Multisim](https://img.shields.io/badge/-Multisim-FF6600?style=flat-square&logo=multisim&logoColor=white)
-    ![PCB Layout](https://img.shields.io/badge/-PCB_Layout-8DB600?style=flat-square&logo=autodesk&logoColor=white)
-    ![Cadence](https://img.shields.io/badge/-Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white)
+  - ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+    ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+    ![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=flat-square&logo=adobe-indesign&logoColor=white)
+    ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
     
 ## 🎯 What You'll Find Here
 
