@@ -3,7 +3,7 @@
 Hey there! 👋 I'm **Mohamed zinhom Ali Kassem **, and you've just stumbled upon my little corner of the tech universe. Whether you're here to explore, collaborate, or just satisfy your curiosity, I'm thrilled to have you.
 
 ## 🚀 About Me
-- **🎓 E-commerce Manager:** I’m a senior syudent at Cairo University, Electronics and Communication Departement. This stage of my learning journey is both exciting and challenging as I prepare to transition from academia to the professional world.
+- **🎓 E-commerce Manager:** 
 
 - **💡 Innovation Enthusiast:** I’m passionate about exploring new technologies and their potential to revolutionize the automotive industry. I strive to stay ahead of trends and breakthroughs, constantly seeking innovative solutions that can advance automotive technology and drive the future of transportation.
 
