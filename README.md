@@ -3,9 +3,12 @@
 Hey there! 👋 I'm **Mohamed zinhom Ali Kassem **, and you've just stumbled upon my little corner of the tech universe. Whether you're here to explore, collaborate, or just satisfy your curiosity, I'm thrilled to have you.
 
 ## 🚀 About Me
-- **🎓 E-commerce Manager:** 
 
-- **💡 Innovation Enthusiast:** I’m passionate about exploring new technologies and their potential to revolutionize the automotive industry. I strive to stay ahead of trends and breakthroughs, constantly seeking innovative solutions that can advance automotive technology and drive the future of transportation.
+- **🎓 I am Mohamed Zinhom:** , a multifaceted professional navigating the digital realm as a catalyst for innovation and growth. As a Web Design and Development Consultant, a connoisseur of UI & UX intricacies, and an Adobe & Apple Training Consultant, I tread the path of expertise.
+
+- **🚀 Certified by Adobe:**  and fortified with specialized web skills, I not only learn but also impart knowledge with fervor. My creed echoes a commitment to perpetual learning and sharing, for as long as I breathe, the pursuit of knowledge persists."
+
+- **E-commerce Manager:** 
 
 
 ## 🛠 Technical Skills
